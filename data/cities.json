@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "New Delhi",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city and our Capital",
+      "position": {
+        "lat": 28.61,
+        "lng": 77.23
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Kathmandu",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "A Temple City",
+      "position": {
+        "lat": 27.700769,
+        "lng": 85.30014
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Colombo",
+      "country": "Sri Lanka",
+      "emoji": "🇱🇰",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 6.927079,
+        "lng": 79.861244
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Pokhra",
+      "country": "Nepal",
+      "emoji": "🇳🇵",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "A Temple City",
+      "position": {
+        "lat": 28.237987,
+        "lng": 83.995588
+      },
+      "id": "178067511"
+    }
+  ]
+}
